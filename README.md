@@ -1,2 +1,2 @@
 # CursoReact
-Tutoriales de reat
+Tutoriales de react
