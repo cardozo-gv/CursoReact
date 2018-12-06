@@ -1,0 +1,23 @@
+export default {
+  "albums": [
+   {
+     "id": "ANvgLuwyYbQew2H2TayraZuvKwD6SodSXkxXlRAvUPXGZthp-D9b8gmOCZ-_CuFz60z2DfjajfgH",
+     "title": "Código facilito",
+     "productUrl": "https://photos.google.com/lr/album/ANvgLuwyYbQew2H2TayraZuvKwD6SodSXkxXlRAvUPXGZthp-D9b8gmOCZ-_CuFz60z2DfjajfgH",
+     "mediaItemsCount": "2",
+     "coverPhotoBaseUrl": "https://lh3.googleusercontent.com/lr/AJ-EwvnzcFc7icOoIHKFQwMhbVBwOB6t5SR709Hdvv5Xoc5hju_YmEcZVcBxB3upKa5e4ZzWtP6RDRNtbpe67CbCNf5DEaCYlgDHzfE16512gKeefZvSsgsDs5_ar9d9rVu_j48CIDssdBy3TeF8_rsPW3LDXOAybnwlamGj7vCp6evd407U9B1HsAf452Me8AvYuacRbzqifsyH5RDE4MBuiuuxM5F6JPpvE9owpy0hZlVuzfirhIcbssRjk5Sd1fyc9dVOv3UreGDNQJguKyTmOBvWePiLz0TVHM6rwF7GY6Aijg82iO2P0AzMBRzS_k5gZeE4jIlJWxQLMXMmxva_vC73uP892rh6ySbGv0sz1nNAkqClmCoauuBxs-5Xx8D5qXhxW-ajzWBVKysAwNZBldV6j2DeqZto3A-cQZsKGnVbH5f-iDhMA18J1vcix9Shp1gaDTEwZb5NxESNL_frBvLOjE9toFLxyRaw0JOlvTRZ6CoQA6fGt8Q98NZmxjGBIXib5kRSJqvlEuH2QtwROOxY84Sfl2cXQ3dAWYTPZ0vRh3PU19KOCIabO3l72DNg_CffovgffFNCVduIFjUgaeu5tSdgeQ8mTvZ4QEifw8K0Hfri8t1Q5U1ODZgib5MOluNsM4igfPtt7html42nPFRnAUwVnEYD-wIZbTLvwLrhvm14bd8ztws4K2eR8D5skcLY5JyGG74rApqvbFeJAC7mQ_1fzaHLOvqdsRUE4wfEtLSF3MuiBmU-rMGuukT-dV0EMl2bXR_wgk4zaZFFFjYG9w7koXL_altArAXaCIVwp4r-TBg3bdOCx8oZfB7jPnP8MvTSB-RQA9_OBVKcT-Qu4kQ1Q-K3J15mTIUjLatGHTRSdELiXCT-ce6dxPkQMpdpbYrMb2c",
+     "coverPhotoMediaItemId": "ANvgLuyc6PrCEbqVIN3LPHPpLSIlnqpieyw4TshAmiH2ytTnnZHHUTQ-OuAn3XgcG4q9MC2vT9R0nhg5bqnb-XDjhcCLd8WU9g"
+   },
+   {
+     "id": "ANvgLuyQTL6AkZ7hK88SYIZMEAzTlTkYx7Iuj6NFQNPVekzccP34kFUNRJuv4rARRjUHHyvy7QyZ",
+     "title": "Susana",
+     "productUrl": "https://photos.google.com/lr/album/ANvgLuyQTL6AkZ7hK88SYIZMEAzTlTkYx7Iuj6NFQNPVekzccP34kFUNRJuv4rARRjUHHyvy7QyZ",
+     "mediaItemsCount": "3",
+     "coverPhotoBaseUrl": "https://lh3.googleusercontent.com/lr/AJ-EwvkS3wCf4I_wWGhLUq1Bden-RZtymPA-xaQ2_bCUvQcn9l-_txRZduXM3WwLqW13nrMTWr2r5CXjj-UgaTJ0ItIE7zoz6x7DVwq-n9jvs-ijUU6UuDwtRSMqeev-HszR-iRUPgawjPME7dH1Jvk1RGGfctmjvU5yAgNpc8G50yJ2kazFefBH0_Nn1v-XtjefXD4kt7m2MRZLMHKEp8GWQowmSVeh5hB3nnAm0B4dylT7eGJ16QY26pboj5Zs_ugITgUNeZsnNX5pdhO1Pc5e_tHGjb52L2BH39pshl0L-gIeVKJb9e1XXI8zlPlPf734l7NEG9dn1GOf5XY8taO56vPfIZ3G_2Rh3qV4QImq3cYAXIIoNqc6EEFzWGY5bNp_H9KHrANlRokXXyym0mV4El7p2MJRQNtnngmdQ29ZKM3h-4utIkR1LHyfu_JQnks9CjTMLGVSuuRhQWGumJWGeAoNUBHiUN-9aYDZBvU4_eG9F-YdUmT72pOqGV3H6xBDQ6pqe8NC-eJ8m5IsOMRXL5ov9a5qLFRhfuAq1kVOxVex0_uDv-IACXy-8LessVyMc310AzqNmsssY3Ss8LpFFks4Vh9hYE31iRAEkW9tmUNwGVXAVB1AQ0E4KnJCu_1D-9KxeczxNPT1dUtoF2A4baa5vHcJ1nuKgtHLPwQ1BHOBUIdYIkgAvxtSPHaUOasL48-neHEOTLpRW_S7yx53e35_oy1aKFtx7Qz8F-dfQweBUsKH-OL-QUTD2_YMCE7W6WoVmpkWbTKRPv4Clyh4gHbEz2LXkb2hLG43Kuz17j7JlFK0rzw97NPOEbEThzbgxjH6gemYF8dGPqKsWj4Swqnqv4PApVCkwzir41YE5dmvuJI8Di9pJWXg4GSKad4q1-QuHJWb-uVI",
+     "coverPhotoMediaItemId": "ANvgLuwGlFvP64IZAQrtYgTCEQGjyRSDFEpamZqYHGi0qzVnZvB6cFPB7sLDh-iVupNiscVfKt1CxRR-Av6GCl4uA5ut6BTEkA"
+   }
+ ]
+
+  
+
+}
