@@ -1,23 +1,30 @@
+/*Canal youtube Make it Real */
+
 import React, { Component } from 'react';
 import './App.css';
 
-class App extends Component {
-  render() {
-    const names = ["Zulma","Anitta","Susana"];
+import Tareas from './Components/Tareas.js';
+import Examples from './Components/Examples';
+import Formulario from './Components/Formulario';
+import Http from './Components/Http';
+import BsExample from './Components/BsExample';
 
+class App extends Component {
+
+  render() {
     return (
       <div>
-        <h1>Hola Mundo</h1>
 
-        <ul>
-          {names.map(name =>
-          <li>{name}</li>)}
-        </ul>
+        <Formulario/>
+        {/*<Tareas/> */}
+        {/*<Http/> */}
+        {/*<Formulario/> */}
+        <BsExample/>
+
       </div>
       )
-
-
   }
+
 }
 
 export default App;
