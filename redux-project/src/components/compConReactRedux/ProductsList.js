@@ -1,6 +1,5 @@
 import React from 'react';
 import { Button, Glyphicon } from 'react-bootstrap';
-import store from '../../store';
 import { addToCart } from '../../actionCreators';
 import { connect } from 'react-redux';
 
