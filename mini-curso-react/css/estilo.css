@@ -1,0 +1,19 @@
+body{
+  background: orange;
+}
+
+h1{
+  margin: auto;
+  color: #fff;
+  text-align: center;
+}
+
+h2{
+  border-bottom: 1px solid #fff;
+  margin-top: 15px;
+  padding: 20px;
+}
+
+ul{
+  list-style: none;
+}

@@ -24,9 +24,9 @@ class Albums extends Component {
 			headers: {
 				'Authorization':`Bearer ${this.props.token}`
 			}
-		}).then(r=>{
-			this.props.setAlbums(r.data.albums);
-		}).catch("2222222222222"+console.log);
+		}).then(response=>{
+			this.props.setAlbums(response.data.albums);
+		}).catch(console.log);
 	}
 
 	render(){

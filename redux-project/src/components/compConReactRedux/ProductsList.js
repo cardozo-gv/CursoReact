@@ -17,16 +17,16 @@ const styles = {
   }
 }
 
-const ProductsList = (props) => {
+export const ProductsList = ( {products, addToCart}) => {
     return(
       <div style={styles.products}>
-        {props.products.map(product =>
-          <div className="thumbnail" style={styles.product} key={product.id}>
+        {products.map(product =>
+          <div className="thumbnail product" style={styles.product} key={product.id}>
             <img src={product.image} alt={product.name}/>
             <div className="caption">
               <h4>{product.name}</h4>
               <p>
-                <Button bsStyle="primary" onClick={() => props.addToCart(product)} role="button" disabled={product.inventory <= 0}>${product.price} <Glyphicon glyph="shopping-cart" /></Button>
+                <Button bsStyle="primary" onClick={() => addToCart(product)} role="button" disabled={product.inventory <= 0}>${product.price} <Glyphicon glyph="shopping-cart" /></Button>
               </p>
 
             </div>
@@ -53,7 +53,6 @@ const mapDispatchToProps = dispatch => {
     addToCart(product){
       dispatch(addToCart(product))
     }
-
  } //return
 }
 
